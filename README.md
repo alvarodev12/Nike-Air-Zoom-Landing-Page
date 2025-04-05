@@ -60,4 +60,5 @@ Aqui estão algumas imagens do projeto:
 ✅ Botão de adicionar ao carrinho
 
 🔗 Link do projeto
-🔗 Deploy do projeto (Se estiver hospedado, adicione o link aqui.)
+
+🔗 Deploy do projeto: https://alvarodev12.github.io/Nike-Air-Zoom-Landing-Page/
