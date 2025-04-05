@@ -18,7 +18,7 @@ Copiar
 Editar
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
-(⚠️ Substitua seu-usuario e seu-repositorio pelo nome correto do seu repositório no GitHub.)
+Substitua seu-usuario e seu-repositorio pelo nome correto do seu repositório no GitHub.
 
 2️⃣ Entre na pasta do projeto
 
